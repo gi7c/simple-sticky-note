@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Butterfly+Kids&family=Cabin+Sketch&family=Elsie&family=Elsie+Swash+Caps&family=Glass+Antiqua&family=Life+Savers&family=Lobster&family=Poiret+One&family=Sacramento&family=Sofia&display=swap");
+            @font-face {
+                font-family: 'Butterfly Kids';
+                font-style: normal;
+                font-weight: 400;
+              }
+            .xt-container {
+                width : 300px;
+                margin: auto;
+                margin-top: 12%;
+            }
+            .note {
+                font-family: Satisfy;
+                color: #fff;
+                padding: 20px;
+                box-shadow: -8px -2px 10px 2px rgba(0,0,0,0.3);
+                font-family: Satisfy;
+            }
+            .sticky {
+                background: #3399ff;
+                -webkit-transform: rotate(-3deg);
+                -moz-transform: rotate(-3deg);
+                -o-transform: rotate(-3deg);
+                -ms-transform: rotate(-3deg);
+                transform: rotate(-2deg);
+            }
+            .note .judul{
+                font-family: Elsie;
+                font-size: 1.5em;
+                margin-bottom: 5px;
+            }
+            .note .input, .btn{
+                font-family: Cabin Sketch;
+                background-color: #3399ff;
+                color: #fff;
+                border: none;
+                border-bottom: 1px solid;
+                font-size:1.1em;
+           }
+            .note .btn{
+                font-family: Lobster;
+                margin-top: 20px
+            }
+            .note p{
+                font-family: Sofia;
+                font-size:1.1em;
+                text-align: center;
+            }
